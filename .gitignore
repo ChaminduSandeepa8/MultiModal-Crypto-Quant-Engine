@@ -1,0 +1,29 @@
+# Virtual Environments & Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Large Data & Snapshots (100MB+ files)
+data/*.pkl
+data/*.csv
+*.log
+
+# Model Weights & Checkpoints (Optional: අවශ්‍ නම් විතරක් අයින් කරන්න)
+*.pth
+*.pt
+*.model
+*.joblib
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# IDEs & Editors
+.vscode/
+.idea/
+.antigravity/
+*.swp
+*.swo

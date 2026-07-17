@@ -1,0 +1,7 @@
+Using pip 26.1.2 from /home/chamindu-sandeepa/miniconda3/envs/crypto_engine/lib/python3.10/site-packages/pip (python 3.10)
+Collecting causal-conv1d
+  Using cached causal_conv1d-1.6.2.post1.tar.gz (29 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
